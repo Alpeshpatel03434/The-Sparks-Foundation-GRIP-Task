@@ -3,7 +3,11 @@
 
 ## Task 1 : Prediction using Supervised ML
 
-Link Youtube https://youtu.be/L7MguCmFCjc
+Predict the percentage of an student based on the no. of study hours. This is a simple linear regression task as it involves just 2 variables.
+Data can be found at <a href="http://bit.ly/w-data">Dataset</a>
+
+<a href="https://youtu.be/L7MguCmFCjc">Youtube Task-1</a>
+
 
 ## Task 2 : Prediction using Unsupervised ML
 
@@ -12,7 +16,8 @@ Link Youtube https://youtu.be/L7MguCmFCjc
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
 
 Dataset can be found at <a href="https://bit.ly/3kXTdox">Iris.csv</a>
-
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
+<img src="Project-2/task-2.png"></img>
 
 ## Task 3 : Exploratory Data Analysis - Retail
 Dataset - Sample Superstore dataset
