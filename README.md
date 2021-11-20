@@ -2,4 +2,38 @@
 
 
 ## Task 1 : Prediction using Supervised ML
+
 Link Youtube https://youtu.be/L7MguCmFCjc
+
+## Task 2 : Prediction using Unsupervised ML
+
+### K-Means clustering
+
+k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
+
+Dataset can be found at <a href="https://bit.ly/3kXTdox">Iris.csv</a>
+
+
+## Task 3 : Exploratory Data Analysis - Retail
+Dataset - Sample Superstore dataset
+Link of dataset - https://bit.ly/3i4rbWl <a href=""></a>
+
+## Task 4 : Exploratory Data Analysis - Terrorism
+Dataset - Global Terrorism - START data
+Link of dataset - https://bit.ly/2TK5Xn5 <a href=""></a>
+
+## Task 5 : Exploratory Data Analysis - Sports
+Dataset - Indian Premier League
+Link of dataset - https://bit.ly/34SRn3b <a href=""></a>
+
+## Task 6 : Prediction using Decision Tree
+Dataset - Iris Dataset
+Link of dataset - https://bit.ly/2G6sYx9 <a href=""></a>
+
+## Task 7 : Stock Market Prediction using Numerical and Textual Analysis
+Dataset 1 - Historical stock prices
+Link of dataset - https://finance.yahoo.com/ <a href=""></a>
+Dataset 2 - India News Headlines
+Link of dataset - https://bit.ly/36fFPI6 <a href=""></a>
+
+## Task 8 : 
