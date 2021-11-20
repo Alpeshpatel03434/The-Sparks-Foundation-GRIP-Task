@@ -21,15 +21,27 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 
 ## Task 3 : Exploratory Data Analysis - Retail
 Dataset - Sample Superstore dataset
-Link of dataset - https://bit.ly/3i4rbWl <a href=""></a>
+Link of dataset - <a href="https://bit.ly/3i4rbWl">Superstore Dataset</a>
+
+<img src="Project-3/v1.png"></img>
+<img src="Project-3/v2.png"></img>
 
 ## Task 4 : Exploratory Data Analysis - Terrorism
 Dataset - Global Terrorism - START data
-Link of dataset - https://bit.ly/2TK5Xn5 <a href=""></a>
+Link of dataset - <a href="https://bit.ly/2TK5Xn5">Global Terrorism data</a>
+
+<img src="Project-4/v1.png"></img>
+<img src="Project-4/v2.png"></img>
 
 ## Task 5 : Exploratory Data Analysis - Sports
 Dataset - Indian Premier League
-Link of dataset - https://bit.ly/34SRn3b <a href=""></a>
+Link of dataset - <a href="https://bit.ly/34SRn3b">Indian Premier League data</a>
+
+<img src="Project-5/v1.png"></img>
+<img src="Project-5/v2.png"></img>
+<img src="Project-5/v3.png"></img>
+<img src="Project-5/v4.png"></img>
+<img src="Project-5/v5.png"></img>
 
 ## Task 6 : Prediction using Decision Tree
 Dataset - Iris Dataset
