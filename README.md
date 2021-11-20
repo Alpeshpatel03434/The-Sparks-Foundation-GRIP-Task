@@ -45,12 +45,19 @@ Link of dataset - <a href="https://bit.ly/34SRn3b">Indian Premier League data</a
 
 ## Task 6 : Prediction using Decision Tree
 Dataset - Iris Dataset
-Link of dataset - https://bit.ly/2G6sYx9 <a href=""></a>
+Link of dataset - <a href="https://bit.ly/2G6sYx9">Iris Dataset</a>
+
+<img src="Project-6/v1.png"></img>
+<img src="Project-6/v2.png"></img>
 
 ## Task 7 : Stock Market Prediction using Numerical and Textual Analysis
 Dataset 1 - Historical stock prices
-Link of dataset - https://finance.yahoo.com/ <a href=""></a>
+Link of dataset - <a href="https://finance.yahoo.com/">Historical stock prices data</a>
 Dataset 2 - India News Headlines
-Link of dataset - https://bit.ly/36fFPI6 <a href=""></a>
+Link of dataset - <a href="https://bit.ly/36fFPI6">India News Headlines dataset</a>
 
-## Task 8 : 
+<img src="Project-7/v1.png"></img>
+<img src="Project-7/v2.png"></img>
+
+## Task 8 : Timeline Analysis : Covid-19
+Dataset: Daily updated .csv file on <a href="https://bit.ly/30d2gdi">https://bit.ly/30d2gdi</a>
